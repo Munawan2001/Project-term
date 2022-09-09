@@ -6,15 +6,15 @@
 
 
 ## ส่วนประกอบ
-  -ESP8266-12E 
+- ESP8266-12E 
   บอร์ดในการส่งข้อมูลและเชื่อมต่อกับWiFi
-  -Max30102 
+- Max30102 
   Sensorวัดออกซิเจนในเลือดและอัตราการเต้นของหัวใจ
 
 ## Sofeware
--Arduino IDE
--ThingSpeak
--MIT App lnventor
+- Arduino IDE
+- ThingSpeak
+- MIT App lnventor
 
 ## ผลลัพธ์
   ![program](https://github.com/Munawan2001/Project-term/blob/main/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2Think%20speak.png)
