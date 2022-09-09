@@ -4,9 +4,6 @@
 ## ตัวต้นแบบ
   ![program](https://github.com/Munawan2001/Project-term/blob/main/%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A.jpg)
 
-##
-  ![program](https://www.youtube.com/embed/M3w2yKDJMmo)
-
 ## ส่วนประกอบ
 - ESP8266-12E 
   บอร์ดในการส่งข้อมูลและเชื่อมต่อกับWiFi
